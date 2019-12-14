@@ -1,0 +1,4 @@
+How to run HTTP server:
+python3 server.py runserver
+
+Use "python3 server.py runserver --help" for getting list of available command line arguments
